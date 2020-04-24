@@ -1,5 +1,7 @@
 # HelloPhoenix
 
+[![Build Status](https://travis-ci.com/alvesgabriel/hello_phoenix.svg?branch=master)](https://travis-ci.com/alvesgabriel/hello_phoenix)
+
 To start your Phoenix server:
 
   * Setup the project with `mix setup`
